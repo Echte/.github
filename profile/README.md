@@ -5,47 +5,30 @@
 <h1 align="center">Echte</h1>
 
 <p align="center">
-  <strong>Centralized GitHub workflows, templates, and automation for the Echte organization.</strong>
+  <strong>Building technology that creates real impact.</strong>
 </p>
 
 ---
 
 ## Who We Are
 
-[Echte](https://echte.com) is building tools and technology that make a real difference. This repository is the engineering backbone of our GitHub organization — a single place for shared workflows, issue templates, and automation that power every team and project at Echte.
+[Echte](https://echte.com) is a technology company focused on building purposeful software. We believe great technology should be honest, reliable, and genuinely useful — qualities captured in our name ("echte" means *real* or *genuine* in several European languages).
 
 ---
 
-## Our Goals
+## What We're Building Toward
 
-### 🚀 Accelerate Every Team
-We provide reusable CI/CD workflows so every repository in the organization can ship faster, safer, and more consistently — without reinventing the wheel.
+### 💡 Meaningful Products
+We build software that solves real problems for real people — not complexity for its own sake.
 
-### 🔒 Raise the Bar on Quality
-Shared linting, testing, and security-scanning pipelines enforce consistent standards across all projects, giving every contributor a clear path to production-ready code.
+### 🔍 Transparency & Trust
+We hold ourselves to a high standard of openness — in how we build, how we communicate, and how we grow.
 
-### 🤝 Lower the Barrier to Contribution
-Standardized issue and pull request templates mean contributors spend less time on process and more time solving problems that matter.
-
-### 📖 Keep Knowledge Centralized
-Documentation, runbooks, and organizational defaults live here, making it easy for new and existing team members to find authoritative guidance fast.
-
----
-
-## What Lives Here
-
-| Path | Purpose |
-|---|---|
-| `.github/workflows/` | Reusable and shared GitHub Actions workflows |
-| `.github/ISSUE_TEMPLATE/` | Issue templates for bugs, features, and more |
-| `.github/PULL_REQUEST_TEMPLATE.md` | Standard pull request checklist |
-| `profile/README.md` | This organization profile page |
-| `assets/` | Shared brand assets (logos, images) |
+### 🌍 Lasting Impact
+Our goal isn't just to ship features; it's to create technology that stands the test of time and makes a difference in the communities we serve.
 
 ---
 
 ## Get in Touch
 
-Visit us at [echte.com](https://echte.com) or open an issue in this repository if you have questions about our shared workflows or templates.
-
-<p align="center"><em>Built with care by the Echte engineering team.</em></p>
+Learn more at [echte.com](https://echte.com).
