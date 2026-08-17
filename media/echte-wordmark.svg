@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 120">
+  <g fill="#3A3A3A" stroke-width="0">
+
+    <!-- Xi (Ξ) -->
+    <!-- Top bar -->
+    <rect x="0" y="0" width="120" height="20" rx="1.5" ry="1.5"/>
+    <!-- Square bottom-left corner -->
+    <rect x="0" y="18.5" width="1.5" height="1.5"/>
+    <!-- Middle bar (square left, rounded right) -->
+    <path d="M20 50 H95
+      a1.5 1.5 0 0 1 1.5 1.5
+      V68.5
+      a1.5 1.5 0 0 1 -1.5 1.5
+      H20 Z" fill="#F36A1D"/>
+    <!-- Bottom bar -->
+    <rect x="0" y="100" width="120" height="20" rx="1.5" ry="1.5"/>
+    <!-- Square top-left corner -->
+    <rect x="0" y="100" width="1.5" height="1.5"/>
+
+    <!-- Squared C -->
+    <path d="M170 0
+      H270
+      a1.5 1.5 0 0 1 1.5 1.5
+      V18.5
+      a1.5 1.5 0 0 1 -1.5 1.5
+      H170
+      V100
+      H270
+      a1.5 1.5 0 0 1 1.5 1.5
+      V118.5
+      a1.5 1.5 0 0 1 -1.5 1.5
+      H170
+      Q150 120 150 100
+      V20
+      Q150 0 170 0 Z"/>
+
+    <!-- H -->
+    <!-- Left vertical bar -->
+    <rect x="300" y="0" width="20" height="120" rx="1.5" ry="1.5"/>
+    <!-- Right vertical bar -->
+    <rect x="400" y="0" width="20" height="120" rx="1.5" ry="1.5"/>
+    <!-- Middle connector -->
+    <path d="M320 50 H395
+      a1.5 1.5 0 0 1 1.5 1.5
+      V68.5
+      a1.5 1.5 0 0 1 -1.5 1.5
+      H320 Z" fill="#F36A1D"/>
+
+    <!-- Tau (Τ) -->
+    <rect x="450" y="0" width="120" height="20" rx="1.5" ry="1.5"/>
+    <rect x="500" y="10" width="20" height="110" rx="1.5" ry="1.5"/>
+
+    <!-- Xi (Ξ) -->
+    <rect x="600" y="0" width="120" height="20" rx="1.5" ry="1.5"/>
+    <rect x="600" y="18.5" width="1.5" height="1.5"/>
+    <path d="M620 50 H695
+          a1.5 1.5 0 0 1 1.5 1.5
+          V68.5
+          a1.5 1.5 0 0 1 -1.5 1.5
+          H620 Z" fill="#F36A1D"/>
+        <rect x="0" y="100" width="120" height="20" rx="1.5" ry="1.5"/>
+
+    <rect x="600" y="100" width="120" height="20" rx="1.5" ry="1.5"/>
+    <rect x="600" y="100" width="1.5" height="1.5"/>
+  </g>
+</svg>

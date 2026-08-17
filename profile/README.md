@@ -1,34 +1,31 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Echte Logo" width="200" />
+  <img src="../media/echte-wordmark.svg" alt="Echte" width="360" />
 </p>
-
-<h1 align="center">Echte</h1>
 
 <p align="center">
-  <strong>Building technology that creates real impact.</strong>
+  <strong>Your partner for modern data, AI, and cloud solutions.</strong>
 </p>
 
----
+## About Echte
 
-## Who We Are
+Echte is a technology services company helping organizations move from complexity to clarity. We design and build modern data, AI, and cloud systems that are reliable, scalable, and built to last.
 
-[Echte](https://echte.com) is a technology company focused on building purposeful software. We believe great technology should be honest, reliable, and genuinely useful — qualities captured in our name ("echte" means *real* or *genuine* in several European languages).
+## What We Do
 
----
+- **Data Engineering:** Modern data platforms, pipelines, and architectures
+- **AI & Machine Learning:** Responsible AI systems, intelligent automation, and MLOps
+- **Cloud Architecture:** Cloud modernization, platform engineering, and infrastructure as code
+- **Software Engineering:** Cloud-ready applications, APIs, integrations, and delivery practices
+- **Training & Enablement:** Practical workshops and team training for Microsoft technologies, data, AI, and cloud engineering
 
-## What We're Building Toward
+## How We Work
 
-### 💡 Meaningful Products
-We build software that solves real problems for real people — not complexity for its own sake.
+We combine strong architectural principles with hands-on execution. We work directly with your teams to build capability, not dependency, and to deliver practical solutions with long-term sustainability in mind.
 
-### 🔍 Transparency & Trust
-We hold ourselves to a high standard of openness — in how we build, how we communicate, and how we grow.
+## Connect
 
-### 🌍 Lasting Impact
-Our goal isn't just to ship features; it's to create technology that stands the test of time and makes a difference in the communities we serve.
+[Explore our services](https://echte.com/services/) or [start a conversation](https://echte.com/contact/).
 
----
-
-## Get in Touch
-
-Learn more at [echte.com](https://echte.com).
+- [Website](https://echte.com/)
+- [LinkedIn](https://www.linkedin.com/company/echtellc)
+- [Email](mailto:support@echte.com)
